@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ynarahar
+Build-Jdk: 12
+Implementation-Title: tutorialDetails
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: net.guides.springboot2
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/tutorialDetails
+Created-By: Maven Integration for Eclipse
+
